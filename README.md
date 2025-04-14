@@ -4,13 +4,12 @@ Me chamo Pedro Henrique, sou estudante de TI. Atualmente me dedico aos estudos p
 
 
 - 🔭 Atualmente trabalho em um jogo de plataforma 2D para dispositivos Android, escrito em GDScript (variação do Python para a engine Godot)  ...
-- 🌱 Atualmente estudando Typescript e React.JS ...
+- 🌱 Atualmente estudando React.JS ...
 - 👯 Procurando entrar no mercado na area de Front-End ...
 - ⚡ Fun fact: Gosto muito de Culinaria
 
 ## Tecnologias:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
